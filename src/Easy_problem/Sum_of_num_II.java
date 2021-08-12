@@ -13,6 +13,7 @@ for(int i=0;i<=nums.length-1;i++)
 		System.out.println(m.get(tempt)+" "+i);
 		flag=true;
 		}
+	
 	else
 	{
 		m.put(nums[i],i);
