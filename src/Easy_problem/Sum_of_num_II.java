@@ -18,13 +18,8 @@ for(int i=0;i<=nums.length-1;i++)
 		m.put(nums[i],i);
 	}}
 	
-}
-
-if(target!=((Object) m).getValue())  
-	{
-	
-	}
-	}
+}return null;
+    }
 public static void main(String args[])
 {
 int[] nums= {3,5,3};
