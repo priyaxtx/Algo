@@ -4,6 +4,7 @@ public class Palindrome {
 	public static void main(String a[])
 	{
 		Palindrome p=new Palindrome();	
+		
 		p.isPalindrome(2147483647);
 }
 		  public boolean isPalindrome(int x){
