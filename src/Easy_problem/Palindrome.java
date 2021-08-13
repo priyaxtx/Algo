@@ -14,6 +14,7 @@ public class Palindrome {
 		      int r=x%10;
 		      reverse=(reverse*10)+r;
 		      x=x/10;
+		      
 		        }
 		        if(x>=1){
 		         reverse=(reverse*10)+x;
