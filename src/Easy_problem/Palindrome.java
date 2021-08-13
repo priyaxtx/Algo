@@ -1,7 +1,7 @@
 package Easy_problem;
 
 public class Palindrome {
-	public static void main(String a[])
+	public static void main(String a[]) 
 	{
 		Palindrome p=new Palindrome();	
 		
