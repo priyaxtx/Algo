@@ -16,8 +16,6 @@ public class Palindrome {
 		      int r=x%10;
 		      reverse=(reverse*10)+r;
 		      x=x/10;
-		     
-		      
 		        }
 		    
 		    System.out.println(reverse);
