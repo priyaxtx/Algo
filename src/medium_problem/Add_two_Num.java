@@ -1,6 +1,6 @@
 package medium_problem;
 
-//import data_structure.LinkedList.Node;
+
 
 public class Add_two_Num {
 	int sum=0;
