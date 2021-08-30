@@ -54,21 +54,17 @@ public class Add_two_Num {
 
 	    }	        */
 	 
-	 
-	 
-	 
 	
-
 public static void main(String a[])
 {
 	//ListNode l1=new ListNode();
-	ListNode head = new ListNode(1);
-	ListNode second = new ListNode(2);
-	ListNode third = new ListNode(3);
+	//ListNode head = new ListNode(1);
+	//ListNode second = new ListNode(2);
+	//ListNode third = new ListNode(3);
 
 	//System.out.println(sum);
-	ListNode l2=new ListNode();
-	
+	//ListNode l2=new ListNode();
+	Add_two_Num obj=new Add_two_Num();
 }
 }
 
